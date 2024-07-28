@@ -8,7 +8,7 @@ def main():
     print(
     '''
     Bagels, a deductive logic game.
-    By Al Sweigart al@inventwithpython.com
+    By Shanil rajapaksha shanilirusha97@gmail.com
 
     I am thinking of a {}-digit number with no repeated digits.
     Try to guess what it is. Here are some clues:
